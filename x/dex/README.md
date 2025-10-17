@@ -647,3 +647,4 @@ make e2e-test-dex
 - **Social Trading**: Copy trading and strategy sharing
 - **DeFi Aggregation**: Route optimization across multiple DEXs
 - **Governance Integration**: Participate in DEX governance
+<!-- Auto-update: 2025-10-17T12:50:27.964182 -->
